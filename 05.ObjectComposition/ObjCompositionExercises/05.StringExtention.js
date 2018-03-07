@@ -48,7 +48,7 @@
             }
         return string
     }
-})()
+}())
 let str = 'my string'
 str = str.ensureStart('my')
 str = str.ensureStart('hello ')
