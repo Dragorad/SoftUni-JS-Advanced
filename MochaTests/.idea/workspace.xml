@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21875c95-d031-4860-961d-0b11caeddf10" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MochaTests$nuke_functionality_selectors_are_not_valid_for_document_argument_one_is_invalid_should_not_work_.coverage" NAME="nuke functionality.selectors are not valid for document.argument one is invalid(should not work) Coverage Results" MODIFIED="1520331893927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="02.Even or Odd.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/02.Even or Odd.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="01.Sum Of Numbers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/testsLab/01.Sum Of Numbers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02. Playing Cards.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/testsLab/02. Playing Cards.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="22" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03.Deck Of Cards.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/testsLab/03.Deck Of Cards.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="37" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!block;n#printDeckOfCards#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05.Shared Object Tests.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/05.Shared Object Tests.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="155" column="0" lean-forward="true" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
+              <folding>
+                <element signature="e#256#1133#0" expanded="false" />
+                <element signature="e#1188#6003#0" expanded="false" />
+                <element signature="e#1271#1534#0" expanded="false" />
+                <element signature="e#1600#2093#0" expanded="false" />
+                <element signature="e#3728#4397#0" expanded="false" />
+                <element signature="e#4466#5996#0" expanded="false" />
+                <element signature="e#5196#5404#0" expanded="false" />
+                <element signature="e#5490#5700#0" expanded="false" />
+                <marker date="1520446037002" expanded="true" signature="144:233" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06.RGB To HEX.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/testsLab/06.RGB To HEX.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="35" />
+              <folding>
+                <element signature="e#674#3246#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="07. Add Subtract.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/testsLab/07. Add Subtract.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+              <folding>
+                <element signature="e#303#1670#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="01.Request Validator.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/01.Request Validator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>isOddOrEven</find>
+      <find>wint</find>
+      <find>256</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>lookupChar</replace>
+      <replace>with</replace>
+      <replace>3.14</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/01.FirstTest.js" />
+        <option value="$PROJECT_DIR$/tests/04.Math Enforcer.js" />
+        <option value="$PROJECT_DIR$/05.Shared Object Tests.js" />
+        <option value="$PROJECT_DIR$/tests/00Add Swap Shift Left and Right in LIst - exam 20161113.js" />
+        <option value="$PROJECT_DIR$/tests/02.Even or Odd.js" />
+        <option value="$PROJECT_DIR$/03.Char Lookup.js" />
+        <option value="$PROJECT_DIR$/tests/03.Char Lookup.js" />
+        <option value="$PROJECT_DIR$/06.ArmageDom.html" />
+        <option value="$PROJECT_DIR$/tests/01.FirstTest.js" />
+        <option value="$PROJECT_DIR$/tests/testsLab/01.Sum Of Numbers.js" />
+        <option value="$PROJECT_DIR$/tests/testsLab/02. Playing Cards.js" />
+        <option value="$PROJECT_DIR$/tests/testsLab/03.Deck Of Cards.js" />
+        <option value="$PROJECT_DIR$/tests/testsLab/04. Sum Numbers.js" />
+        <option value="$PROJECT_DIR$/tests/testsLab/04.Check For Symmetry.js" />
+        <option value="$PROJECT_DIR$/tests/testsLab/06.RGB To HEX.js" />
+        <option value="$PROJECT_DIR$/tests/testsLab/07. Add Subtract.js" />
+        <option value="$PROJECT_DIR$/tests/06.Armage DOM.js" />
+        <option value="$PROJECT_DIR$/tests/input1.js" />
+        <option value="$PROJECT_DIR$/tests/052.Shared Object tests.js" />
+        <option value="$PROJECT_DIR$/tests/05.Shared Object Tests.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="57" />
+    <option name="y" value="23" />
+    <option name="width" value="1309" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MochaTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MochaTests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MochaTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MochaTests" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$USER_HOME$/AppData/Roaming/npm/node_modules/mocha" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests/05.Shared Object Tests.js" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JS Core\MochaTests\tests" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JS Core\MochaTests\tests" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Mocha.tests\05.Shared Object Tests.js">
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs>
+        <env name="" value="" />
+      </envs>
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+    </configuration>
+    <configuration name="mochaFirst" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs>
+        <env name="" value="" />
+      </envs>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/tests/05.Shared Object Tests.js</test-file>
+    </configuration>
+    <configuration name="nuke functionality (1)" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs>
+        <env name="" value="" />
+      </envs>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/tests/06.Armage DOM.js</test-file>
+      <test-names>
+        <name value="nuke functionality" />
+      </test-names>
+    </configuration>
+    <configuration name="nuke functionality.Both argument are valid(should  work).First selector does not hold second selector element(should not change)" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs>
+        <env name="" value="" />
+      </envs>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/tests/06.Armage DOM.js</test-file>
+      <test-names>
+        <name value="nuke functionality" />
+        <name value="Both argument are valid(should  work)" />
+        <name value="First selector does not hold second selector element(should not change)" />
+      </test-names>
+    </configuration>
+    <configuration name="nuke functionality.selectors are equal(does nothing)" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs>
+        <env name="" value="" />
+      </envs>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/tests/06.Armage DOM.js</test-file>
+      <test-names>
+        <name value="nuke functionality" />
+        <name value="selectors are equal(does nothing)" />
+      </test-names>
+    </configuration>
+    <configuration name="nuke functionality.selectors are equal(does nothing).are selectors different " type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs>
+        <env name="" value="" />
+      </envs>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/tests/06.Armage DOM.js</test-file>
+      <test-names>
+        <name value="nuke functionality" />
+        <name value="selectors are equal(does nothing)" />
+        <name value="are selectors different " />
+      </test-names>
+    </configuration>
+    <configuration name="tests\05.Shared Object Tests.js" type="mocha-javascript-test-runner" factoryName="Mocha" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs>
+        <env name="" value="" />
+      </envs>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/tests/05.Shared Object Tests.js</test-file>
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Mocha.tests\05.Shared Object Tests.js" />
+      <item index="1" class="java.lang.String" itemvalue="Mocha.mochaFirst" />
+      <item index="2" class="java.lang.String" itemvalue="Mocha.nuke functionality.Both argument are valid(should  work).First selector does not hold second selector element(should not change)" />
+      <item index="3" class="java.lang.String" itemvalue="Mocha.nuke functionality.selectors are equal(does nothing).are selectors different " />
+      <item index="4" class="java.lang.String" itemvalue="Mocha.nuke functionality.selectors are equal(does nothing)" />
+      <item index="5" class="java.lang.String" itemvalue="Mocha.nuke functionality (1)" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Mocha.nuke functionality.Both argument are valid(should  work).First selector does not hold second selector element(should not change)" />
+        <item index="1" class="java.lang.String" itemvalue="Mocha.nuke functionality (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Mocha.nuke functionality.selectors are equal(does nothing).are selectors different " />
+        <item index="3" class="java.lang.String" itemvalue="Mocha.nuke functionality.selectors are equal(does nothing)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21875c95-d031-4860-961d-0b11caeddf10" name="Default" comment="" />
+      <created>1519944060098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519944060098</updated>
+      <workItem from="1519944061801" duration="341000" />
+      <workItem from="1520029334016" duration="1789000" />
+      <workItem from="1520075341925" duration="238000" />
+      <workItem from="1520075656391" duration="2256000" />
+      <workItem from="1520087108292" duration="1717000" />
+      <workItem from="1520156472851" duration="218000" />
+      <workItem from="1520156720686" duration="1319000" />
+      <workItem from="1520158087279" duration="21825000" />
+      <workItem from="1520276199479" duration="3909000" />
+      <workItem from="1520325150883" duration="14116000" />
+      <workItem from="1520348055273" duration="8848000" />
+      <workItem from="1520418801270" duration="16055000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="nuke_functionality_Both_argument_are_valid(should__work) - 2018.03.07 at 13h 40m 44s.xml">
+      <configuration name="nuke functionality.Both argument are valid(should  work)" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="nuke_functionality_Both_argument_are_valid(should__work) - 2018.03.07 at 13h 45m 20s.xml">
+      <configuration name="nuke functionality.Both argument are valid(should  work)" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="nuke_functionality_Both_argument_are_valid(should__work) - 2018.03.07 at 13h 50m 05s.xml">
+      <configuration name="nuke functionality.Both argument are valid(should  work)" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="tests_05_Shared_Object_Tests_js - 2018.03.07 at 13h 50m 35s.xml">
+      <configuration name="tests\05.Shared Object Tests.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="tests_05_Shared_Object_Tests_js - 2018.03.07 at 15h 01m 20s.xml">
+      <configuration name="tests\05.Shared Object Tests.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="tests_05_Shared_Object_Tests_js - 2018.03.07 at 15h 21m 24s.xml">
+      <configuration name="tests\05.Shared Object Tests.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="tests_05_Shared_Object_Tests_js - 2018.03.07 at 15h 31m 15s.xml">
+      <configuration name="tests\05.Shared Object Tests.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="tests_05_Shared_Object_Tests_js - 2018.03.07 at 15h 32m 56s.xml">
+      <configuration name="tests\05.Shared Object Tests.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="tests_05_Shared_Object_Tests_js - 2018.03.07 at 15h 55m 06s.xml">
+      <configuration name="tests\05.Shared Object Tests.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="tests_05_Shared_Object_Tests_js - 2018.03.07 at 16h 05m 33s.xml">
+      <configuration name="tests\05.Shared Object Tests.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="72631000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25397837" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5146036" sideWeight="0.50259405" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43671766" sideWeight="0.49740598" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32823366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17802504" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294423" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47844228" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931727" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2495226" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3977747" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/tests/05.Shared Object Tests.js</url>
+          <line>35</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/tests/05.Shared Object Tests.js</url>
+          <line>43</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="11" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tests/01.Request Validator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/05.Shared Object Tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#256#1133#0" expanded="false" />
+            <element signature="e#1188#6003#0" expanded="false" />
+            <element signature="e#1271#1534#0" expanded="false" />
+            <element signature="e#1600#2093#0" expanded="false" />
+            <element signature="e#3728#4397#0" expanded="false" />
+            <element signature="e#4466#5996#0" expanded="false" />
+            <element signature="e#5196#5404#0" expanded="false" />
+            <element signature="e#5490#5700#0" expanded="false" />
+            <marker date="1520446037002" expanded="true" signature="144:233" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/03.Char Lookup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.ArmageDom.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/06.Armage DOM.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="81" selection-end-column="2" />
+          <folding>
+            <element signature="e#269#4044#0" expanded="false" />
+            <element signature="e#959#1234#0" expanded="false" />
+            <element signature="e#1305#1652#0" expanded="false" />
+            <element signature="e#1391#1645#0" expanded="false" />
+            <element signature="e#1720#2452#0" expanded="false" />
+            <element signature="e#1792#2082#0" expanded="false" />
+            <element signature="e#2154#2445#0" expanded="false" />
+            <element signature="e#2586#2888#0" expanded="false" />
+            <element signature="e#2959#3258#0" expanded="false" />
+            <marker date="1520423115927" expanded="true" signature="378:792" ph="..." />
+            <marker date="1520423115927" expanded="true" signature="422:490" ph="..." />
+            <marker date="1520423115927" expanded="true" signature="527:587" ph="..." />
+            <marker date="1520423115927" expanded="true" signature="624:773" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/testsLab/01.Sum Of Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="16" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/01.FirstTest.js" />
+    <entry file="file://$PROJECT_DIR$/tests/04.Math Enforcer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/05.Shared Object Tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="25" />
+          <folding>
+            <element signature="e#256#1133#0" expanded="false" />
+            <element signature="e#1188#6003#0" expanded="false" />
+            <element signature="e#1271#1534#0" expanded="false" />
+            <element signature="e#1600#2093#0" expanded="false" />
+            <element signature="e#3728#4397#0" expanded="false" />
+            <element signature="e#4466#5996#0" expanded="false" />
+            <element signature="e#5196#5404#0" expanded="false" />
+            <element signature="e#5490#5700#0" expanded="false" />
+            <marker date="1520446037002" expanded="true" signature="144:233" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/00Add Swap Shift Left and Right in LIst - exam 20161113.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="59" column="2" lean-forward="true" selection-start-line="59" selection-start-column="2" selection-end-line="59" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/02.Even or Odd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="54" lean-forward="true" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/06.Armage DOM.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="38" lean-forward="false" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+          <folding>
+            <element signature="e#269#4044#0" expanded="false" />
+            <element signature="e#959#1234#0" expanded="false" />
+            <element signature="e#1305#1652#0" expanded="false" />
+            <element signature="e#1391#1645#0" expanded="false" />
+            <element signature="e#1720#2452#0" expanded="false" />
+            <element signature="e#1792#2082#0" expanded="false" />
+            <element signature="e#2154#2445#0" expanded="false" />
+            <element signature="e#2586#2888#0" expanded="false" />
+            <element signature="e#2959#3258#0" expanded="false" />
+            <marker date="1520423115927" expanded="true" signature="378:792" ph="..." />
+            <marker date="1520423115927" expanded="true" signature="422:490" ph="..." />
+            <marker date="1520423115927" expanded="true" signature="527:587" ph="..." />
+            <marker date="1520423115927" expanded="true" signature="624:773" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.ArmageDom.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="5" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/03.Char Lookup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="64" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/01.FirstTest.js" />
+    <entry file="file://$PROJECT_DIR$/tests/04.Math Enforcer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="82" lean-forward="true" selection-start-line="25" selection-start-column="82" selection-end-line="25" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/05.Shared Object Tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="25" />
+          <folding>
+            <element signature="e#256#1133#0" expanded="false" />
+            <element signature="e#1188#6003#0" expanded="false" />
+            <element signature="e#1271#1534#0" expanded="false" />
+            <element signature="e#1600#2093#0" expanded="false" />
+            <element signature="e#3728#4397#0" expanded="false" />
+            <element signature="e#4466#5996#0" expanded="false" />
+            <element signature="e#5196#5404#0" expanded="false" />
+            <element signature="e#5490#5700#0" expanded="false" />
+            <marker date="1520446037002" expanded="true" signature="144:233" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/06.Armage DOM.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+          <folding>
+            <element signature="e#269#4044#0" expanded="false" />
+            <element signature="e#959#1234#0" expanded="false" />
+            <element signature="e#1305#1652#0" expanded="false" />
+            <element signature="e#1391#1645#0" expanded="false" />
+            <element signature="e#1720#2452#0" expanded="false" />
+            <element signature="e#1792#2082#0" expanded="false" />
+            <element signature="e#2154#2445#0" expanded="false" />
+            <element signature="e#2586#2888#0" expanded="false" />
+            <element signature="e#2959#3258#0" expanded="false" />
+            <marker date="1520423115927" expanded="true" signature="378:792" ph="..." />
+            <marker date="1520423115927" expanded="true" signature="422:490" ph="..." />
+            <marker date="1520423115927" expanded="true" signature="527:587" ph="..." />
+            <marker date="1520423115927" expanded="true" signature="624:773" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.ArmageDom.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/00Add Swap Shift Left and Right in LIst - exam 20161113.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="40" column="20" lean-forward="false" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/01.FirstTest.js" />
+    <entry file="file://$PROJECT_DIR$/tests/01.FirstTest.js" />
+    <entry file="file://$PROJECT_DIR$/tests/01.FirstTest.js" />
+    <entry file="file://$PROJECT_DIR$/tests/01.FirstTest.js" />
+    <entry file="file://$PROJECT_DIR$/tests/01.FirstTest.js" />
+    <entry file="file://$PROJECT_DIR$/tests/01.FirstTest.js" />
+    <entry file="file://$PROJECT_DIR$/tests/01.FirstTest.js" />
+    <entry file="file://$PROJECT_DIR$/tests/00Add Swap Shift Left and Right in LIst - exam 20161113.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="59" column="2" lean-forward="true" selection-start-line="59" selection-start-column="2" selection-end-line="59" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/04.Math Enforcer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/npm/node_modules/mocha/lib/runnable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="47" column="2" lean-forward="false" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/npm/node_modules/mocha/lib/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="28" column="2" lean-forward="false" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/npm/node_modules/mocha/lib/interfaces/bdd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="86" column="6" lean-forward="false" selection-start-line="86" selection-start-column="6" selection-end-line="86" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/npm/node_modules/mocha/lib/suite.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="188" column="14" lean-forward="false" selection-start-line="188" selection-start-column="14" selection-end-line="188" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/npm/node_modules/mocha/lib/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="47" column="2" lean-forward="false" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/03.Char Lookup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.ArmageDom.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/01.FirstTest.js" />
+    <entry file="file://$PROJECT_DIR$/tests/testsLab/04. Sum Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/testsLab/05.Check For Symmetry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="37" column="16" lean-forward="false" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/06.Armage DOM.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="110" selection-end-column="2" />
+          <folding>
+            <element signature="e#269#4044#0" expanded="false" />
+            <element signature="e#959#1234#0" expanded="false" />
+            <element signature="e#1305#1652#0" expanded="false" />
+            <element signature="e#1391#1645#0" expanded="false" />
+            <element signature="e#1720#2452#0" expanded="false" />
+            <element signature="e#1792#2082#0" expanded="false" />
+            <element signature="e#2154#2445#0" expanded="false" />
+            <element signature="e#2586#2888#0" expanded="false" />
+            <element signature="e#2959#3258#0" expanded="false" />
+            <marker date="1520423115927" expanded="true" signature="378:792" ph="..." />
+            <marker date="1520423115927" expanded="true" signature="422:490" ph="..." />
+            <marker date="1520423115927" expanded="true" signature="527:587" ph="..." />
+            <marker date="1520423115927" expanded="true" signature="624:773" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/global-types/node_modules/@types/mocha/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="179" column="21" lean-forward="true" selection-start-line="179" selection-start-column="21" selection-end-line="179" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/02.Even or Odd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/testsLab/01.Sum Of Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/testsLab/02. Playing Cards.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/testsLab/03.Deck Of Cards.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="37" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!block;n#printDeckOfCards#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/testsLab/06.RGB To HEX.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="35" />
+          <folding>
+            <element signature="e#674#3246#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/testsLab/07. Add Subtract.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="e#303#1670#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/01.Request Validator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/input1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="54" column="43" lean-forward="true" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/052.Shared Object tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="247" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="247" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/05.Shared Object Tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="155" column="0" lean-forward="true" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
+          <folding>
+            <element signature="e#256#1133#0" expanded="false" />
+            <element signature="e#1188#6003#0" expanded="false" />
+            <element signature="e#1271#1534#0" expanded="false" />
+            <element signature="e#1600#2093#0" expanded="false" />
+            <element signature="e#3728#4397#0" expanded="false" />
+            <element signature="e#4466#5996#0" expanded="false" />
+            <element signature="e#5196#5404#0" expanded="false" />
+            <element signature="e#5490#5700#0" expanded="false" />
+            <marker date="1520446037002" expanded="true" signature="144:233" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
